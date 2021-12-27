@@ -1,19 +1,7 @@
-{
-  "posts": [
+[
     {
-      "idea": "This is a awesome startup idea!"
-    },
-    {
-      "idea": "This is a awesome startup idea!"
-    },
-    {
-      "idea": "This is a awesome startup idea!"
-    },
-    {
-      "idea": "This is a awesome startup idea!"
-    },
-    {
-      "idea": "This is a awesome startup idea!"
+        "VideoID": "Testing",
+        "Title": "Hello",
+        "Description": "Testing"
     }
-  ]
-}
+]
